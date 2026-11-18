@@ -21,5 +21,5 @@ SystemDictionary >> moveToPermSpaceWithContent: permSpace [
 	cachedClassNames moveToPermSpaceWithContent: permSpace.
 	cachedNonClassNames moveToPermSpaceWithContent: permSpace.
 	cachedBehaviors moveToPermSpaceWithContent: permSpace.
-	reservedVariables moveToPermSpaceWithContent: permSpace
+	pseudoVariables moveToPermSpaceWithContent: permSpace
 ]

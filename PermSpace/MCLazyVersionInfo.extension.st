@@ -10,5 +10,4 @@ MCLazyVersionInfo >> moveToPermSpace: aPermSpace [
 	message moveToPermSpace: aPermSpace.
 	date moveToPermSpace: aPermSpace.
 	time moveToPermSpace: aPermSpace.
-	author moveToPermSpace: aPermSpace.
 ]
